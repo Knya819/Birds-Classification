@@ -1,6 +1,5 @@
 # Bird Species Classification with Convolutional Neural Networks
 
-![Bird Species](url-to-image.png)  <!-- Optional: Add a project-related image -->
 
 ## Introduction
 
